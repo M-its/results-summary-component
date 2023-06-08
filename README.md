@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 
 # Desktop
-![Desktop](./desktop-solution.png)
+![Desktop](./desktop-solution2.png)
 
 # Mobile
 ![mobile](./mobile-solution.png)
