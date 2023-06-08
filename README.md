@@ -28,7 +28,10 @@ Users should be able to:
 
 ### Screenshot
 
+# Desktop
 ![Desktop](./desktop-solution.png)
+
+# Mobile
 ![mobile](./mobile-solution.png)
 
 
