@@ -42,7 +42,7 @@
 body {
     font-family: 'Hanken Grotesk', sans-serif;
     font-size: 1.8rem;
-    background-color: var(--pale-blue);
+    background-color: var(--white);
 }
 
 #container {
@@ -51,6 +51,10 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
+    -webkit-box-shadow: 6px 7px 25px 0px rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 6px 7px 25px 0px rgba(0, 0, 0, 0.19);
+    box-shadow: 6px 7px 25px 0px rgba(0, 0, 0, 0.19);
 }
 
 #main {
